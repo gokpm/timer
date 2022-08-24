@@ -7,7 +7,8 @@ A command-line timer utility to improve productivity.
 ## Installation
 
 ```
-go get -u github.com/gokpm/timer
+git clone https://github.com/gokpm/timer.git
+cd timer
 go build
 mv timer $HOME/bin
 ```
